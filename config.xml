@@ -15,13 +15,15 @@
     <author href="http://phonegap.com" email="yogeshkhanara@gmail.com">
         yogesh
     </author>
+   <content src="index.html"></content>
 
     <!--
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET
         permission on your app, which PhoneGap requires.
-    -->
-</widget>
     <preference name="permissions"                value="none"/>
+    -->
+        
+</widget>
 
   
