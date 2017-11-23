@@ -16,6 +16,8 @@
         yogesh
     </author>
             <icon src="res/icon.png" />
+          <splash src="splash.png" />
+
 
    <content src="index.html"></content>
 
